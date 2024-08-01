@@ -5,4 +5,4 @@
 1b [sample output](SJF_535.png.jpg)
 
 # tested output
-1b [tested output](SJF_OUTPUT_535.png.jpg)
+1b [tested output](SJF_output_535.png.jpg)
